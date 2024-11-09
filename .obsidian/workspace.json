@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "fbe72e978d8fa265",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2920130625d3ac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8353a301cb8c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/keyboard/en_US.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "en_US"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1761b873b2df694e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a207b920114db71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/keyboard/fa_IR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fa_IR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9f0d9398e44985f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c472c3cf2e1f2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56fcb50ccbe84f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b718f4cbc34bfc61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c4b993743f1f5af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2ba6045ff5acdb27",
+    "type": "split",
+    "children": [
+      {
+        "id": "05eaaf8329908697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c42684c5d75001",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "e3e75c8c3f98879e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "7317ece0d7e92276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee575b1672cf14ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef8353a301cb8c57",
+  "lastOpenFiles": [
+    "Fundamentals/keyboard/fa_IR.md",
+    "Fundamentals/keyboard/en_US.md",
+    "Fundamentals/Windows.md",
+    "Assets/keyboard/Keyboard-ft.png",
+    "Assets/keyboard",
+    "Menu.md",
+    "Fundamentals/keyboard",
+    "Assets/icons/alert-triangle-filled.png",
+    "warn.md",
+    "Assets/icons/zzz.svg",
+    "Assets/icons/zzz-off.svg",
+    "Assets/icons/zoom.svg",
+    "Assets/icons/zoom-scan.svg",
+    "Assets/icons/zoom-reset.svg",
+    "Assets/icons/zoom-replace.svg",
+    "Assets/icons/zoom-question.svg",
+    "Assets/icons/zoom-pan.svg",
+    "Assets/icons",
+    "Assets/outline",
+    "Assets/Colors",
+    "Assets/New folder",
+    "Assets",
+    "New folder",
+    "Fundamentals"
+  ]
+}
