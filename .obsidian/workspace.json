@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2920130625d3ac1",
+        "id": "a426bee38aa657f6",
         "type": "tabs",
         "children": [
           {
-            "id": "ef8353a301cb8c57",
+            "id": "dcbba56e0e09557a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/keyboard/en_US.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "en_US"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1761b873b2df694e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a207b920114db71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentals/keyboard/fa_IR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fa_IR"
+              "title": "README"
             }
           }
         ]
@@ -97,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ba6045ff5acdb27",
@@ -183,31 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef8353a301cb8c57",
+  "active": "dcbba56e0e09557a",
   "lastOpenFiles": [
-    "Fundamentals/keyboard/fa_IR.md",
-    "Fundamentals/keyboard/en_US.md",
-    "Fundamentals/Windows.md",
-    "Assets/keyboard/Keyboard-ft.png",
-    "Assets/keyboard",
+    "fundamentals/visual-studio-code.en.md",
+    "fundamentals/terminal.en.md",
+    "fundamentals/keyboard.en.md",
     "Menu.md",
-    "Fundamentals/keyboard",
-    "Assets/icons/alert-triangle-filled.png",
-    "warn.md",
-    "Assets/icons/zzz.svg",
-    "Assets/icons/zzz-off.svg",
-    "Assets/icons/zoom.svg",
-    "Assets/icons/zoom-scan.svg",
-    "Assets/icons/zoom-reset.svg",
-    "Assets/icons/zoom-replace.svg",
-    "Assets/icons/zoom-question.svg",
-    "Assets/icons/zoom-pan.svg",
-    "Assets/icons",
-    "Assets/outline",
-    "Assets/Colors",
-    "Assets/New folder",
-    "Assets",
-    "New folder",
-    "Fundamentals"
+    "assets/colors/green.png",
+    "fundamentals/index.en.md",
+    "assets/colors/orange.png",
+    "assets/colors/light-blue.png",
+    "assets/colors",
+    "assets/icons/alert-triangle-filled.png",
+    "assets/icons",
+    "assets/keyboard/regions.png",
+    "assets/keyboard/important-keys.png",
+    "assets/keyboard/fast-typing.png",
+    "assets/keyboard",
+    "fundamentals/keyboard/img/regions.png",
+    "fundamentals/keyboard/img/important-keys.png",
+    "fundamentals/keyboard/img/fast-typing.png",
+    "assets",
+    "fundamentals/keyboard/assets/keyboard",
+    "fundamentals/keyboard/assets/icons",
+    "fundamentals/keyboard/assets/colors",
+    "fundamentals/keyboard/assets",
+    "fundamentals/keyboard/index.en.md",
+    "fundamentals/keyboard/keyboard.en.md",
+    "fundamentals/keyboard",
+    "addr.py",
+    "README.md",
+    "fundamentals/visual-studio-code.md",
+    "fundamentals/terminal.md",
+    "Untitled.canvas",
+    "Fundamentals/git.md",
+    "Fundamentals/debug.md",
+    "Fundamentals/clean code.md",
+    "Fundamentals/open source.md",
+    "Fundamentals/keyboard/fa_IR.md",
+    "warn.md"
   ]
 }

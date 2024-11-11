@@ -1,0 +1,1 @@
+please clone this repository to your computer and open it using Obsidian
