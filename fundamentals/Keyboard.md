@@ -21,22 +21,22 @@ prepared by: #SMostafaSarvi
 		Such as `Alt + F4` that close programs.
 4. `Shift`
 	-  To type other state of key that pressed after holding `Shift`.
-		Such as `Shift + [` that types `{`.
+		Such as `Shift + [` that types `{`. 
 5. `Delete`
 	- Remove a character once pressed from first to last.
-6. `Backspace`
+1. `Backspace`
 	- Remove a character once pressed from last to first.
-7. `Enter` | `Return`
+2. `Enter` | `Return`
 	- Use to go next line.
 	- Use to execute a command in command line.
-8. `Super` | `Windows` | `Command` | ...
+3. `Super` | `Windows` | `Command` | ...
 	- Use for launch especial OS App.
 		Such as Launching Settings Using `Super + L`.
 ## Common Shortcuts
 ![16](alert-triangle-filled.png) These shortcuts are mostly for Windows.
 #### `Ctrl`
-- `Ctrl + C`: Copy
-- `Ctrl + X`: Cut
+- `Ctrl + C`: Copy 
+- `Ctrl + X`: Cut 
 - `Ctrl + V`: Paste
 - `Ctrl + Z`: Undo
 - `Ctrl + F`: Find
@@ -44,7 +44,6 @@ prepared by: #SMostafaSarvi
 - `Ctrl + +`: Zoom in
 - `Ctrl + -`: Zoom Out 
 - `Ctrl + W`: Exit Current Tab
-- `Ctrl + Q`: Exit Totally From Tray apps
 - `Ctrl + S`: Save
 - `Ctrl + Tab`: Change Tabs
 - `Ctrl + R`: Reload tab
