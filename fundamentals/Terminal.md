@@ -66,6 +66,21 @@ PS C:\> command1 | command2
 
 ### Terminal Management
 #### Basic shortcuts
+##### Close a program
+You can close a running program using `Ctrl + C`
+##### Scroll to end
+You can use `Ctrl + L` to typically clean up terminal but it actually scrolls to end to hide past commands and outputs.
+##### Delete at once
+- You can use `Ctrl + Backspace` or `Ctrl + Delete` to delete a word at once in order you know about `Delete` and `Backspace`
+
+- You can also ignore all you write in line by `Ecs` and it clean that line
+##### Code completion
+- You can use `Tab` to complete addresses 
+
+- Use `Up Key` and `Down Key` to browse between your history of commands
+
+- In latest version of Power-Shell when you type some thing it prefer you some commands you run in past to complete the command you can use  `Right Key`
+
 #### Clean up terminal
 You can use `clear` or `cls` command to clean up your terminal.
 #### Exit terminal
@@ -202,11 +217,11 @@ PS C:\> echo $helloWorld >> file.txt # append to file.txt
 You can also use internet in terminal.
 ### Check Connection
 
-To get latency of your Internet and check your connection. and also you can limit the count of retries you can use `-c` flag.
+To get latency of your Internet and check your connection. and also you can limit the count of retries you can use `-n` flag.
 ```powershell
 PS C:\> ping google.com # check if google is accessible
 
-PS C:\> ping google.com -c 4
+PS C:\> ping google.com -n 4
 ```
 ### Get content from internet
 
