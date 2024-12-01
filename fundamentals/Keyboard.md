@@ -1,14 +1,14 @@
 prepared by: #SMostafaSarvi
 ## Types of keyboards
 
-![](assets/keyboard/regions.png)
+![](../assets/keyboard/regions.png)
 
-- Compact | ![15](green.png)
-- Ten key less | ![15](green.png) +  ![15](light-blue.png)
-- Full Size | ![15](green.png) + ![15](light-blue.png)  +  ![15](orange.png)
+- Compact | ![15](../assets/colors/green.png)
+- Ten key less | ![15](../assets/colors/green.png) +  ![15](../assets/colors/light-blue.png)
+- Full Size | ![15](../assets/colors/green.png) + ![15](../assets/colors/light-blue.png)  +  ![15](../assets/colors/orange.png)
 ## Common Keys
 
-![](important-keys.png)
+![](../assets/keyboard/important-keys.png)
 
 1. `Esc` (Escape)
 	- Commonly used to exit From Some states in apps.
@@ -33,7 +33,7 @@ prepared by: #SMostafaSarvi
 	- Use for launch especial OS App.
 		Such as Launching Settings Using `Super + L`.
 ## Common Shortcuts
-![16](alert-triangle-filled.png) These shortcuts are mostly for Windows.
+![16](../assets/icons/alert-triangle-filled.png) These shortcuts are mostly for Windows.
 #### `Ctrl`
 - `Ctrl + C`: Copy 
 - `Ctrl + X`: Cut 
@@ -68,13 +68,13 @@ prepared by: #SMostafaSarvi
 - `F5`: Refresh
 - `Fn + Fx`: Do things are drawn on your `F1` to `F12` keys.
 	
-	![16](alert-triangle-filled.png) Your keyboard may have `fn` Lock. It means by default `fn` key always is on
+	![16](../assets/icons/alert-triangle-filled.png) Your keyboard may have `fn` Lock. It means by default `fn` key always is on
 		to toggle this you have to hold `fn + fn lock` key on your keyboard.
 	
-	![16](alert-triangle-filled.png) If your `fn` be locked you could not use e.g. `Alt + F4`.
+	![16](../assets/icons/alert-triangle-filled.png) If your `fn` be locked you could not use e.g. `Alt + F4`.
 ## 10 finger fast type
 
-![](fast-typing.png)
+![](../assets/keyboard/fast-typing.png)
 
 On your keyboard two keys have bumps, put you pointing fingers on them and arrange others like above shape.
 Try to type some thing and consider the areas on above shape.
